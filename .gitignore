@@ -3,3 +3,6 @@
 ################################################################################
 
 /SignalRDemo/obj
+/SignalRDemo/node_modules
+/SignalRDemo/bin/Debug/netcoreapp2.0
+/.vs/SignalRDemo/v15/Server/sqlite3
